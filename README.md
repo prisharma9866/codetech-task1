@@ -2,10 +2,9 @@
 
 Name : Priya Sharma
 company:codetech IT Solutions
-Id:
+Id:CT12DS1814
 Domauin: Full Stack Developer
 Duration:july to september 2024
-Mentor:
 
 Overview of the Project:
 
